@@ -14,7 +14,7 @@ This repository contains the results from JMeter performance testing on a softwa
 
 2. **Test Screenshot 2**
    
-   ![Test Screenshot 2](https://github.com/Jaswanth-e/Software-engineering-lab/blob/main/Experiment%203/BU22CSEN0100639/screenshots/Screenshot%202025-01-20%20154917.png)
+   ![Test Screenshot 2](https://github.com/manas-janapati/python_projects/blob/main/JMeter-Testing-Project/screenshots/WhatsApp%20Image%202025-02-18%20at%203.35.44%20PM%20(1).jpeg)
 
    Description of what this test represents and what the output shows.
 
